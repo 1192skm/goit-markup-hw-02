@@ -159,13 +159,16 @@ body {
     font-weight: 600;
     font-size: 16px;
     line-height: 1.5;
-    display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.04em;
     color: var(--primary-brand);
     background-color: var(--accent-color);
     cursor: pointer;
+}
+.current {
+    color: #FFFFFF;
+    background-color: var(--primary-brand);
 }
 .btn:hover,
 .btn:focus {
@@ -174,7 +177,6 @@ body {
     font-weight: 600;
     font-size: 16px;
     line-height: 1.5;
-    display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.04em;
