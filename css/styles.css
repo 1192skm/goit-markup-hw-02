@@ -73,7 +73,7 @@ body {
 }
 .link:hover,
 .link:focus {
-    color: var(--text-color);
+    color:var(--primary-brand);
 }
 .link-nav {
     color:var(--primary-brand);
@@ -86,7 +86,7 @@ body {
     color: var(--title-color);
 }
 .contacts-link:hover {
-    color:var(--primary-brand)
+    color:var(--primary-brand);
 }
 
 /* Contacts */
